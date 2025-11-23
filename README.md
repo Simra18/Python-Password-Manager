@@ -99,13 +99,11 @@ Uses message boxes for errors, confirmations, and prompts.
 
 ## Sample Output
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-1" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-2" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-3" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-4" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-5" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-6" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-7" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/fd282ce1-5d79-4a4b-98f6-63fcc17eafde" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6be80055-8256-40a4-9d78-8a74e6a83cc0" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5e91ed79-185e-43d1-b894-4e3dfccec2ac" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e679f0ab-46ce-417e-9c2b-39bfc972599b" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/88e55d40-7c1a-4225-b2ae-b1b1fad4e778" />
 
 ---
 
