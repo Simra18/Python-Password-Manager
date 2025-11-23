@@ -39,22 +39,18 @@ The application demonstrates the practical usage of **GUI programming**, **file 
 
 ## Features
 
-### Add Credentials  
+- ### Add Credentials  
 Stores username–password pairs inside `passwords.txt`.
-
-### Retrieve Password  
+- ### Retrieve Password  
 Displays the saved password for the entered username.
-
-### View All Records  
+- ### View All Records  
 Shows the list of all existing username–password entries.
-
-### Delete Credentials  
+- ### Delete Credentials  
 Removes a selected user entry from the file.
 
-### Tkinter GUI  
+- ### Tkinter GUI  
 Graphical user interface with input fields and interactive buttons.
-
-### Error Handling  
+- ### Error Handling  
 Uses message boxes for errors, confirmations, and prompts.
 
 ---
@@ -102,7 +98,14 @@ Uses message boxes for errors, confirmations, and prompts.
 ---
 
 ## Sample Output
-*(Screenshots from the project report may be added here.)*
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-1" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-2" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-3" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-4" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-5" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-6" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/your-unique-id-7" />
 
 ---
 
