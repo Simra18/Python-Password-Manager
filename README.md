@@ -94,8 +94,15 @@ Uses message boxes for errors, confirmations, and prompts.
 
 ### 4. Function: `delete()`
 - Removes specific credentials  
-- Rewrites the updated list to the file  
+- Rewrites the updated list to the file
 
+---
+### Future Enhancements
+- Encrypt stored passwords  
+- Use a database instead of text files  
+- Add search functionality  
+- Built-in strong password generator  
+- Multi-user authentication  
 ---
 
 ## Sample Output
@@ -118,9 +125,4 @@ It highlights key programming concepts including:
 - Exception handling  
 - User-friendly interface design  
 
-### Future Enhancements
-- Encrypt stored passwords  
-- Use a database instead of text files  
-- Add search functionality  
-- Built-in strong password generator  
-- Multi-user authentication  
+---
