@@ -12,7 +12,7 @@ It demonstrates key concepts including **Tkinter GUI development**, **file handl
 | Kiranjeet Kaur | 1/24/SET/BCS/295 |
 | Drishti Parashar | 1/24/SET/BCS/298 |
 | Simra Fatima | 1/24/SET/BCS/307 |
-| Yousuf | 1/24/SET/BCS/297 |
+| Yusuf Ansari | 1/24/SET/BCS/297 |
 
 **Faculty Mentor:** Mr. Kushal (Assistant Professor)  
 **Department:** Computer Science & Engineering  
