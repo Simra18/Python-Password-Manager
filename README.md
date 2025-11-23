@@ -97,7 +97,7 @@ Uses message boxes for errors, confirmations, and prompts.
 - Rewrites the updated list to the file
 
 ---
-### Future Enhancements
+## Future Enhancements
 
 - Encrypt stored passwords  
 - Use a database instead of text files  
