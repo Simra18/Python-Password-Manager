@@ -98,6 +98,7 @@ Uses message boxes for errors, confirmations, and prompts.
 
 ---
 ### Future Enhancements
+
 - Encrypt stored passwords  
 - Use a database instead of text files  
 - Add search functionality  
