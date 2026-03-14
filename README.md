@@ -4,23 +4,6 @@ It demonstrates key concepts including **Tkinter GUI development**, **file handl
 
 ---
 
-## Team Members
-
-| Name | Roll Number |
-|------|-------------|
-| Tanisha | 1/24/SET/BCS/289 |
-| Kiranjeet Kaur | 1/24/SET/BCS/295 |
-| Drishti Parashar | 1/24/SET/BCS/298 |
-| Simra Fatima | 1/24/SET/BCS/307 |
-| Yusuf Ansari | 1/24/SET/BCS/297 |
-
-**Faculty Mentor:** Mr. Kushal (Assistant Professor)  
-**Department:** Computer Science & Engineering  
-**Institute:** MRIIRS  
-**Academic Year:** 2025–2026  
-
----
-
 ## Overview
 The Password Manager is a simple GUI application built using Python’s **Tkinter** library.  
 It allows users to store, retrieve, view, and delete login credentials in a structured manner.
